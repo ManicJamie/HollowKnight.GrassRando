@@ -361,7 +361,7 @@
     },
     {
         "name": "Edge_Outside_Markoth-Group_1",
-        "logic": "Deepnest_East_18[top1] | (((Deepnest_East_18[right2] + Shade_Gate-Markoth?LEFTSHADOWDASH) | Deepnest_East_18[bot1]) + RIGHTCLAW | WINGS)"
+        "logic": "Deepnest_East_18[top1] | (((Deepnest_East_18[right2] + Shade_Gate-Markoth?LEFTSHADOWDASH) | Deepnest_East_18[bot1]) + (RIGHTCLAW | WINGS))"
     },
     {
         "name": "Edge_Outside_Oro-Group_0",
